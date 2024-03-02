@@ -1,0 +1,5 @@
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\Ice Task 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\Ice Task 1.AssemblyInfoInputs.cache
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\Ice Task 1.AssemblyInfo.cs
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\Ice Task 1.csproj.CoreCompileInputs.cache
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\Ice Task 1.sourcelink.json
