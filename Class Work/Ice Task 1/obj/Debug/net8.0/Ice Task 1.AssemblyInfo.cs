@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ice Task 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5aa53774fe7784c40608e4356f9e9316c59763e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9afeeeae20d7d5a2df748695ae4be75d7ddce5f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ice Task 1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ice Task 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ice_Task_1
 {
-    internal class CalculatingState
+    internal class CalculatingState : MainProgram
     {
         // when turn starts, activate 
     }

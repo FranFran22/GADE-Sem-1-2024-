@@ -1,22 +1,37 @@
-﻿using System.Runtime.CompilerServices;
-using System;
-using System.Collections.Generic;
-
-bool startOfTurn, movesCalc, noMoreMoves, noMoves;
-
-namespace Ice_Task_1
+﻿
+class MainProgram
 {
-    enum Sates { idle, calculating, action };
+    bool startOfTurn, movesCalc, noMoves, noMorePosMoves, endOfTurn;
 
+    public enum States {idle, calculating, action}
+    public States state;
 
-    void Main()
+    void Main(string[] args)
     {
         //Run a state check
-        if (startOfTurn == true)
+        StateCheck();
 
+        //Reset variables after turn
+        if (endOfTurn == true)
+        {
+            state = States.idle;
+            startOfTurn = false;
+            movesCalc = false;
+            noMoves = false;
+            noMorePosMoves = false;
+        }
     }
 
+    public void StateCheck()
+    {
+        if (startOfTurn == true && state == States.idle)
+            state = States.calculating;
+
+        if (movesCalc == true && state == States.calculating)
+            state = States.action;
+
+        if (noMoves == true || (noMorePosMoves == true && state == States.action) || endOfTurn == true)
+            state = States.idle;
+
+    }
 }
-
-
-

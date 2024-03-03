@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ice_Task_1
 {
-    internal class IdleState
+    internal class IdleState : MainProgram
     {
         // used when no more moves can be made, other player's turn
     }

@@ -6,9 +6,15 @@ using System.Threading.Tasks;
 
 namespace Ice_Task_1
 {
-    internal class ActionState
+    internal class ActionState : MainProgram
     {
-        // once moves have been calculated, the moves are executed
-        // transferes to IDLE once all moves are executed
+        void Main()
+        {
+            while (state == States.action)
+            {
+
+            }
+        }
+
     }
 }
