@@ -1,0 +1,15 @@
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\Ice Task 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\Ice Task 1.AssemblyInfoInputs.cache
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\Ice Task 1.AssemblyInfo.cs
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\Ice Task 1.csproj.CoreCompileInputs.cache
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\Ice Task 1.sourcelink.json
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\bin\Debug\net8.0\Ice Task 1.exe
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\bin\Debug\net8.0\Ice Task 1.deps.json
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\bin\Debug\net8.0\Ice Task 1.runtimeconfig.json
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\bin\Debug\net8.0\Ice Task 1.dll
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\bin\Debug\net8.0\Ice Task 1.pdb
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\Ice Task 1.dll
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\refint\Ice Task 1.dll
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\Ice Task 1.pdb
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\Ice Task 1.genruntimeconfig.cache
+F:\Vega 2024\Game Development\GADE-Sem-1-2024-\Class Work\Ice Task 1\obj\Debug\net8.0\ref\Ice Task 1.dll
